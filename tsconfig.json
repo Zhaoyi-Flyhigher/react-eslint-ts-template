@@ -27,7 +27,7 @@
       "src/**/*.tsx", 
       "src/index.ts",
       "./.eslintrc.js"
-    //   "src/**/*.vue",
+      // "src/**/*.vue",
       // "tests/**/*.ts",
       // "tests/**/*.tsx",
     ],
