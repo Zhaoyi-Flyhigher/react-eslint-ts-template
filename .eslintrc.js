@@ -51,7 +51,8 @@ module.exports = {
         "react/prefer-stateless-function": 0,
         "react/jsx-uses-react": "error",
         "react/jsx-uses-vars": "error",
-        "@typescript-eslint/no-explicit-any": "error"
+        "@typescript-eslint/no-explicit-any": 0,
+        "react/display-name": "off",
         // // 禁止缩进错误
         // "indent": 0,
         // // 关闭不允许使用 no-tabs
